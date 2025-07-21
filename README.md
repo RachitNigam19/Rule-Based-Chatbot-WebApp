@@ -9,4 +9,3 @@ Dark Mode for better readability and visual appeal.
 Emoji Button to add reactions.
 Info Button to provide guidance about the chatbot.
 Structured Layout: Organized with separate folders for templates, static files, and main code files.  
- 
