@@ -1,4 +1,4 @@
-🤖 Rule-Based-Chatbot-WebApp
+# 🤖 Rule-Based-Chatbot-WebApp
 This repository contains a rule-based chatbot built with Python and Flask, designed to provide conversational responses based on predefined rules and patterns. Featuring a user-friendly web interface with dark mode and interactive elements, this project showcases skills in web development, conversational AI, and user experience design.
 📖 Overview
 The Rule-Based Chatbot WebApp is a Python-based application that mimics human-like conversations by recognizing keywords and phrases (e.g., greetings like "hi" or conversational fillers like "hmm"). Built with Flask, the chatbot offers a responsive web interface with features like dark mode, an emoji button, and an info button for user guidance. The project demonstrates proficiency in building simple AI systems and web applications.
